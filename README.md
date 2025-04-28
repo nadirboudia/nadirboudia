@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Boudia Nadir Allaa Eddine</h1>
-<h3 align="center">I'm a passionate **Computer Science student** at the **Higher School of Computer Science**. I’m currently focused on **front-end development** and always eager to expand my knowledge in new technologies. I'm a **[Front-end Developer]** with expertise in **JavaScript, React.js, CSS, TailwindCSS, OOP**, and more. I am constantly learning and exploring new technologies like **TypeScript** and other **web development** tools.</h3>
+<h3 align="center">I'm a passionate **Computer Science student** at the **Higher School of Computer Science**. I’m currently focused on **front-end development** and always eager to expand my knowledge in new technologies. I'm a **[Front-end Developer]** with expertise in **JavaScript, React.js, CSS, TailwindCSS, OOP**, and more</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadirboudia&label=Profile%20views&color=0e75b6&style=flat" alt="nadirboudia" /> </p>
 
