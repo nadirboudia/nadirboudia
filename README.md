@@ -26,7 +26,7 @@
 ---
 
 ## 🌐 Connect With Me
-- [LinkedIn]: https://www.linkedin.com/in/nadir-boudia/ 
+ https://www.linkedin.com/in/nadir-boudia/ 
  
 ---
 
